@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="915ecc63-bf2d-4a66-b40d-b555775f87da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SPACuge9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add_dto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_bike_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_tables.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/order_statuses.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stored_procs.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udfs.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use_bike_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views.sql" afterDir="false" />
+    <list default="true" id="915ecc63-bf2d-4a66-b40d-b555775f87da" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;spac-brk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/spac-brk/SPACuge9&quot;,
+    &quot;accountId&quot;: &quot;78e01844-dec2-4eea-8f07-9a86b2f08564&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -46,21 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.add_dto.executor": "Run",
-    "Python.bike_store.executor": "Run",
-    "Python.create_bike_store.executor": "Run",
-    "Python.dao.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.use_bike_store.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/SPAC-45/PycharmProjects/SPACuge9"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.add_dto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bike_store.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create_bike_store.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.use_bike_store.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SPAC-45/PycharmProjects/SPACuge9&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SPAC-45\PycharmProjects\SPACuge9" />
@@ -69,7 +66,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -82,6 +79,30 @@
       <option name="presentableId" value="Default" />
       <updated>1733128743825</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1736157979549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736157979549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
